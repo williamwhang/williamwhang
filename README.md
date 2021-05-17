@@ -1,7 +1,7 @@
-### What's up guys 
+### What's up guys 💻
 ### I'm William Whang! 👋
 
-🇧🇷 Born in São Paulo, Brazil <br>
+📍 Born in São Paulo, Brazil <br>
 
 ### Find me elsewhere 🌎
 💼 [LinkedIn](https://www.linkedin.com/in/williamwhang/) <br>
