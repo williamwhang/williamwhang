@@ -1,5 +1,6 @@
 ###  💻 What's up guys!!! 💻
-### I'm William Whang! 👋
+### Hello, I'm Will I AM  👋
+I’m a full stack developer.
 
 📍 Born in São Paulo, Brazil <br>
 
