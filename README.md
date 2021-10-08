@@ -2,7 +2,7 @@
 ### Hello, I'm Will I AM  👋
 I’m a full stack developer from Brazil.
 
-📍 Born in São Paulo, Brazil <br>
+📍 Born and raised in São Paulo, Brazil <br>
 
 ### Find me elsewhere 🌎
 💼 [LinkedIn](https://www.linkedin.com/in/williamwhang/) <br>
