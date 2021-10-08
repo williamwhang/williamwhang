@@ -1,6 +1,6 @@
 ###  💻 What's up guys!!! 💻
 ### Hello, I'm Will I AM  👋
-I’m a full stack developer.
+I’m a full stack developer from Brazil.
 
 📍 Born in São Paulo, Brazil <br>
 
