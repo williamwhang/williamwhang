@@ -24,25 +24,20 @@ I’m a full stack developer from Brazil. Focus on Front End.
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<!--   
-  <a href="https://nodejs.org" target="_blank"><img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
-  
-  <a href="https://www.figma.com/" target="_blank"> <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma"/> </a> -->
 </div>
  
  ##
  
- 
-### 🌎 Connect with me:
+ ### 🌎 Connect with me:
 <div> 
+  
   <a href = "whang.william@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/williamwhang/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/williamwhang/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=williamwhang.visitor-badge" alt="visitors"></p>
+
 
 
 <!--
