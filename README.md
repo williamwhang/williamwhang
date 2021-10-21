@@ -4,7 +4,7 @@
   ##
   
 I’m a full stack developer from Brazil. Focus on Front End.
- - Hoje estou trabalhando na PayPal.
+<!--  - Hoje estou trabalhando na PayPal. -->
  - 🌱 &nbsp;I’m currently learning Typescritpt e React.Js.
 
 <div align="center">
